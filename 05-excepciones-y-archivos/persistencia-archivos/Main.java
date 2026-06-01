@@ -1,5 +1,13 @@
-
-
+/**
+ * EJERCICIO: persistencia-archivos | Main
+ * ---------------------------------------------------------------
+ * Concepto: Manejo de Excepciones y Persistencia de Archivos
+ * 
+ * DESCRIPCIÓN: 
+ * Clase principal para ejecutar y probar la lógica de persistencia-archivos.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;

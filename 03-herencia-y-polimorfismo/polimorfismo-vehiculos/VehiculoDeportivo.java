@@ -1,6 +1,13 @@
-
-
-
+/**
+ * EJERCICIO: polimorfismo-vehiculos | VehiculoDeportivo
+ * ---------------------------------------------------------------
+ * Concepto: Herencia y Polimorfismo
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase VehiculoDeportivo para el ejercicio 'polimorfismo-vehiculos'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 public class VehiculoDeportivo extends Vehiculo {
     
     

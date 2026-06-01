@@ -1,8 +1,13 @@
-
-
-
-
-
+/**
+ * EJERCICIO: polimorfismo-vehiculos | VehiculoTurismo
+ * ---------------------------------------------------------------
+ * Concepto: Herencia y Polimorfismo
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase VehiculoTurismo para el ejercicio 'polimorfismo-vehiculos'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 public class VehiculoTurismo extends Vehiculo{
     
     private int nPuertas;

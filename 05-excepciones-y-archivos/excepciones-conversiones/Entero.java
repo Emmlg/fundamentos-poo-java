@@ -1,6 +1,13 @@
-
-
-
+/**
+ * EJERCICIO: excepciones-conversiones | Entero
+ * ---------------------------------------------------------------
+ * Concepto: Manejo de Excepciones y Persistencia de Archivos
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase Entero para el ejercicio 'excepciones-conversiones'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 public class Entero extends Conversiones{
 
     //atributos

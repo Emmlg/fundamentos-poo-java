@@ -1,8 +1,12 @@
-
-
 /**
- *
- * @author Emmanuel lopez 9/julio/2022
+ * EJERCICIO: polimorfismo-spiderverse | SpiderPeniParker_04
+ * ---------------------------------------------------------------
+ * Concepto: Herencia y Polimorfismo
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase SpiderPeniParker_04 para el ejercicio 'polimorfismo-spiderverse'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
  */
 public class SpiderPeniParker_04 extends SpiderMan_01{
   //atributo

@@ -1,8 +1,12 @@
-
-
 /**
- *
- * @author Emmanuel lopez 9/julio/2022
+ * EJERCICIO: sobreescritura-metodos | Main
+ * ---------------------------------------------------------------
+ * Concepto: Herencia y Polimorfismo
+ * 
+ * DESCRIPCIÓN: 
+ * Clase principal para ejecutar y probar la lógica de sobreescritura-metodos.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
  */
 public class Main {
     public static void main(String[] args) {

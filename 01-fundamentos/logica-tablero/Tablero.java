@@ -1,3 +1,13 @@
+/**
+ * EJERCICIO: logica-tablero | Tablero
+ * ---------------------------------------------------------------
+ * Concepto: Fundamentos de Programación Orientada a Objetos
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase Tablero para el ejercicio 'logica-tablero'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 /*
  Construir un programa que permita dirigir el movimiento de un objeto dentro de un tablero y actualice su posicion dentro del mismo.
 Los movimientos posibles son Arriba,Abajo,izquirda y Derecha.

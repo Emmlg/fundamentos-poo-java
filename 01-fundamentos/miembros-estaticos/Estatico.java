@@ -1,6 +1,13 @@
-
-
-
+/**
+ * EJERCICIO: miembros-estaticos | Estatico
+ * ---------------------------------------------------------------
+ * Concepto: Fundamentos de Programación Orientada a Objetos
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase Estatico para el ejercicio 'miembros-estaticos'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 public class Estatico {
     
   // private  String frase="hola mundo";    

@@ -1,4 +1,13 @@
-
+/**
+ * EJERCICIO: definicion-clases | Operacion
+ * ---------------------------------------------------------------
+ * Concepto: Objetos y Encapsulamiento
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase Operacion para el ejercicio 'definicion-clases'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 import javax.swing.JOptionPane;
 
 

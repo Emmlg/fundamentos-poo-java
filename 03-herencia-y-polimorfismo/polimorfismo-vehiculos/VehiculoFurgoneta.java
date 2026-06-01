@@ -1,6 +1,13 @@
-
-
-
+/**
+ * EJERCICIO: polimorfismo-vehiculos | VehiculoFurgoneta
+ * ---------------------------------------------------------------
+ * Concepto: Herencia y Polimorfismo
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase VehiculoFurgoneta para el ejercicio 'polimorfismo-vehiculos'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 public class VehiculoFurgoneta extends Vehiculo{
     
     private int carga;

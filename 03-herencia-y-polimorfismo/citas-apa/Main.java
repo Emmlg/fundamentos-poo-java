@@ -1,3 +1,13 @@
+/**
+ * EJERCICIO: citas-apa | Main
+ * ---------------------------------------------------------------
+ * Concepto: Herencia y Polimorfismo
+ * 
+ * DESCRIPCIÓN: 
+ * Clase principal para ejecutar y probar la lógica de citas-apa.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 /*
 
  */

@@ -1,3 +1,13 @@
+/**
+ * EJERCICIO: gestion-cuadrilateros | Main
+ * ---------------------------------------------------------------
+ * Concepto: Objetos y Encapsulamiento
+ * 
+ * DESCRIPCIÓN: 
+ * Clase principal para ejecutar y probar la lógica de gestion-cuadrilateros.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 /*
 
  */

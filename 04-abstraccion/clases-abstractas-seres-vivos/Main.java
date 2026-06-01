@@ -1,8 +1,12 @@
-
-
 /**
- *
- * @author Emmanuel lopez 9/julio/2022
+ * EJERCICIO: clases-abstractas-seres-vivos | Main
+ * ---------------------------------------------------------------
+ * Concepto: Abstracción en POO
+ * 
+ * DESCRIPCIÓN: 
+ * Clase principal para ejecutar y probar la lógica de clases-abstractas-seres-vivos.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
  */
 public class Main_0 {
  public static void main(String[] args) {

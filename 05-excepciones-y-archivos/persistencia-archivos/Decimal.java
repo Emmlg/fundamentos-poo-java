@@ -1,4 +1,13 @@
-
+/**
+ * EJERCICIO: persistencia-archivos | Decimal
+ * ---------------------------------------------------------------
+ * Concepto: Manejo de Excepciones y Persistencia de Archivos
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase Decimal para el ejercicio 'persistencia-archivos'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 public class Decimal extends Entero{
     
     //atributo

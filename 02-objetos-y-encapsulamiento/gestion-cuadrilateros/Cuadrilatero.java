@@ -1,3 +1,13 @@
+/**
+ * EJERCICIO: gestion-cuadrilateros | Cuadrilatero
+ * ---------------------------------------------------------------
+ * Concepto: Objetos y Encapsulamiento
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase Cuadrilatero para el ejercicio 'gestion-cuadrilateros'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 /*
 construir un programa que calcule el area y el perimetro de un cuadrilatero dada la longitud de sus lados.
 Los valores de la longitud deberan introducirse por linea de ordenes.

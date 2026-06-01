@@ -1,3 +1,13 @@
+/**
+ * EJERCICIO: gestion-area-poligonos | Main
+ * ---------------------------------------------------------------
+ * Concepto: Abstracción en POO
+ * 
+ * DESCRIPCIÓN: 
+ * Clase principal para ejecutar y probar la lógica de gestion-area-poligonos.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 /*
 Hacer un programa para calcular el área de Polígonos (Triángulos y Rectángulos) 
 el programa debe ser capaz de almacenar en un arreglo N triángulos y rectángulos, 

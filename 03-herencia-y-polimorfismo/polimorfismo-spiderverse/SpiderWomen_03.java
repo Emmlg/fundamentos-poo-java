@@ -1,8 +1,12 @@
-
-
 /**
- *
- * @author Emmanuel lopez 9/julio/2022
+ * EJERCICIO: polimorfismo-spiderverse | SpiderWomen_03
+ * ---------------------------------------------------------------
+ * Concepto: Herencia y Polimorfismo
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase SpiderWomen_03 para el ejercicio 'polimorfismo-spiderverse'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
  */
 public class SpiderWomen_03 extends SpiderMan_01{
   //atributos

@@ -1,3 +1,13 @@
+/**
+ * EJERCICIO: comparativa-vehiculos | Main
+ * ---------------------------------------------------------------
+ * Concepto: Ejercicios de Refuerzo en POO
+ * 
+ * DESCRIPCIÓN: 
+ * Clase principal para ejecutar y probar la lógica de comparativa-vehiculos.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 /*
 
  */

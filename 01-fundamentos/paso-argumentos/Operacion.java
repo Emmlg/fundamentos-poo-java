@@ -1,5 +1,13 @@
-
-
+/**
+ * EJERCICIO: paso-argumentos | Operacion
+ * ---------------------------------------------------------------
+ * Concepto: Fundamentos de Programación Orientada a Objetos
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase Operacion para el ejercicio 'paso-argumentos'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 public class Operacion {
     
    // atributos

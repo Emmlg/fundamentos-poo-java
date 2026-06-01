@@ -1,3 +1,13 @@
+/**
+ * EJERCICIO: operaciones-complejos | Main
+ * ---------------------------------------------------------------
+ * Concepto: Fundamentos de Programación Orientada a Objetos
+ * 
+ * DESCRIPCIÓN: 
+ * Clase principal para ejecutar y probar la lógica de operaciones-complejos.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 /*
 Construir un programa para trabajar con 2 números complejos, implemente el siguiente menú:
 1. Sumar dos números complejos

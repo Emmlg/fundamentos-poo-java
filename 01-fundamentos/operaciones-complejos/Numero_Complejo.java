@@ -1,3 +1,13 @@
+/**
+ * EJERCICIO: operaciones-complejos | Numero_Complejo
+ * ---------------------------------------------------------------
+ * Concepto: Fundamentos de Programación Orientada a Objetos
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase Numero_Complejo para el ejercicio 'operaciones-complejos'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 /*
 Construir un programa para trabajar con 2 números complejos, implemente el siguiente menú:
 1. Sumar dos números complejos

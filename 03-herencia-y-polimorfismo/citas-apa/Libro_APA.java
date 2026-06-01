@@ -1,8 +1,12 @@
-
-
 /**
- *
- * @author Emmanuel lopez 3/julio/2022
+ * EJERCICIO: citas-apa | Libro_APA
+ * ---------------------------------------------------------------
+ * Concepto: Herencia y Polimorfismo
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase Libro_APA para el ejercicio 'citas-apa'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
  */
 public class Libro_APA extends Citas_APA{
     

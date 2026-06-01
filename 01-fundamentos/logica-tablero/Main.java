@@ -1,5 +1,13 @@
-
-
+/**
+ * EJERCICIO: logica-tablero | Main
+ * ---------------------------------------------------------------
+ * Concepto: Fundamentos de Programación Orientada a Objetos
+ * 
+ * DESCRIPCIÓN: 
+ * Clase principal para ejecutar y probar la lógica de logica-tablero.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 

@@ -1,4 +1,13 @@
-
+/**
+ * EJERCICIO: metodos-parametros | Operaciones
+ * ---------------------------------------------------------------
+ * Concepto: Fundamentos de Programación Orientada a Objetos
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase Operaciones para el ejercicio 'metodos-parametros'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 public class Operaciones {
     
   //atributos

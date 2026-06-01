@@ -1,6 +1,13 @@
-
-
-
+/**
+ * EJERCICIO: persistencia-archivos | Entero
+ * ---------------------------------------------------------------
+ * Concepto: Manejo de Excepciones y Persistencia de Archivos
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase Entero para el ejercicio 'persistencia-archivos'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 public class Entero extends Conversiones{
 
     //atributos

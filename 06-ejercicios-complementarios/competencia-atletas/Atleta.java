@@ -1,3 +1,13 @@
+/**
+ * EJERCICIO: competencia-atletas | Atleta
+ * ---------------------------------------------------------------
+ * Concepto: Ejercicios de Refuerzo en POO
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase Atleta para el ejercicio 'competencia-atletas'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 /*
 Construir un programa para una competencia de atletismo, el programa debe gestionar una serie de atletas caracterizados
 por su número de atleta, nombre y tiempo de carrera, al final el programa debe mostrar los datos del atleta ganador de la carrera.

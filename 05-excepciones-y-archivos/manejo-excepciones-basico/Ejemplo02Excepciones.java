@@ -1,6 +1,13 @@
-
-
-
+/**
+ * EJERCICIO: manejo-excepciones-basico | Ejemplo02Excepciones
+ * ---------------------------------------------------------------
+ * Concepto: Manejo de Excepciones y Persistencia de Archivos
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase Ejemplo02Excepciones para el ejercicio 'manejo-excepciones-basico'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 public class Ejemplo02Excepciones {
     
     public Ejemplo02Excepciones(){

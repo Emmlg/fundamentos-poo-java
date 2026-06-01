@@ -1,3 +1,13 @@
+/**
+ * EJERCICIO: comparativa-vehiculos | Vehiculo
+ * ---------------------------------------------------------------
+ * Concepto: Ejercicios de Refuerzo en POO
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase Vehiculo para el ejercicio 'comparativa-vehiculos'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 /*
 Ejercicio 3: Construir un programa que dada una serie de vehiculos 
 caracterizados por su marca,modelo y precio,imprima las propiedades del vehiculo mas barato.

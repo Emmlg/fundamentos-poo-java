@@ -1,4 +1,13 @@
-
+/**
+ * EJERCICIO: metodos-parametros | Main
+ * ---------------------------------------------------------------
+ * Concepto: Fundamentos de Programación Orientada a Objetos
+ * 
+ * DESCRIPCIÓN: 
+ * Clase principal para ejecutar y probar la lógica de metodos-parametros.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 import java.util.Scanner;
 
 

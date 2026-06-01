@@ -1,3 +1,13 @@
+/**
+ * EJERCICIO: relaciones-familiares | Main
+ * ---------------------------------------------------------------
+ * Concepto: Ejercicios de Refuerzo en POO
+ * 
+ * DESCRIPCIÓN: 
+ * Clase principal para ejecutar y probar la lógica de relaciones-familiares.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 /*
 Construir un programa que dada una lista de integrantes de tu familia con las caracteristicas de 
 Nombre,Apellido y Estatura de tal forma que imprimimas las caracteristicas de la persona mas alta. 

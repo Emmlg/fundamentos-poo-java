@@ -1,3 +1,13 @@
+/**
+ * EJERCICIO: triangulos-isosceles | Main
+ * ---------------------------------------------------------------
+ * Concepto: Ejercicios de Refuerzo en POO
+ * 
+ * DESCRIPCIÓN: 
+ * Clase principal para ejecutar y probar la lógica de triangulos-isosceles.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 /*
 Ejercicio 5: Diseñar un programa para trabajar con triángulos isósceles. 
 Para ello defina los atributos necesarios que se requieren, proporcione métodos de consulta, 

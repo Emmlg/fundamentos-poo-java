@@ -1,3 +1,13 @@
+/**
+ * EJERCICIO: clases-abstractas-seres-vivos | Planta_02
+ * ---------------------------------------------------------------
+ * Concepto: Abstracción en POO
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase Planta_02 para el ejercicio 'clases-abstractas-seres-vivos'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates

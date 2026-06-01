@@ -1,6 +1,13 @@
-
-
-
+/**
+ * EJERCICIO: manejo-excepciones-basico | Ejemplo01Excepciones
+ * ---------------------------------------------------------------
+ * Concepto: Manejo de Excepciones y Persistencia de Archivos
+ * 
+ * DESCRIPCIÓN: 
+ * Implementación de la clase Ejemplo01Excepciones para el ejercicio 'manejo-excepciones-basico'.
+ * ---------------------------------------------------------------
+ * Autor: Emmanuel López | Num. Control: 21700198
+ */
 import java.util.Scanner;
 
 
